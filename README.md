@@ -24,6 +24,14 @@ Instead of a patchwork of paid subscriptions and legacy services — one modern 
 
 **[Live demo: product walkthrough & use cases (30 min)](https://scheduler.zoom.us/vc-hb3-accelerator/30-mins-with-vc-hb3-accelerator)**
 
+### License
+
+DLE is distributed under a **proprietary license (EULA)** and is **not open source**.
+
+Use, modification, and resale are governed by the [LICENSE](https://github.com/VC-HB3-Accelerator/DLE/blob/main/LICENSE) and a contract with the author or an [authorized contributor](https://github.com/VC-HB3-Accelerator/DLE/blob/main/legal.en/CONTRIBUTOR_LICENSE.md).
+
+Copyright holder: [AUTHORS](https://github.com/VC-HB3-Accelerator/DLE/blob/main/legal.en/AUTHORS.md)
+
 ---
 
 ## Cursor Year in Code 2025
