@@ -29,4 +29,4 @@ Building [Digital Legal Entity (DLE)](https://github.com/VC-HB3-Accelerator/DLE)
 | 🌐 Website | [hb3-accelerator.com](https://hb3-accelerator.com/) |
 | 🏢 Organization | [VC-HB3-Accelerator](https://github.com/VC-HB3-Accelerator) |
 | 📦 Main project | [DLE](https://github.com/VC-HB3-Accelerator/DLE) |
-| 📺 YouTube | [@hb3accelerator](https://youtube.com/@hb3accelerator) |
+| 💼 LinkedIn | [VC HB3 Accelerator](https://www.linkedin.com/company/hb3/) |
