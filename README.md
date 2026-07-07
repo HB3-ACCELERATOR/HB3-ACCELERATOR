@@ -2,7 +2,7 @@
 
 **Founder @ [VC HB3 Accelerator](https://github.com/VC-HB3-Accelerator)** · [hb3-accelerator.com](https://hb3-accelerator.com/)
 
-Building [Digital Legal Entity (DLE)](https://github.com/VC-HB3-Accelerator/DLE) — on-premise microservices platform for business with AI agents and tokenized governance.
+Building [Digital Legal Entity (DLE)](https://github.com/VC-HB3-Accelerator/DLE) — on-premise платформа для автоматизации бизнеса. В ядре две технологии: AI и EVM-контракты. Установка на серверах компании. Лёгкий переход от платных сервисов с устаревшими технологиями к новому ПО с передовыми технологиями.
 
 ---
 
