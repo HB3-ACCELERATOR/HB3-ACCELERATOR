@@ -2,7 +2,27 @@
 
 **Founder @ [VC HB3 Accelerator](https://github.com/VC-HB3-Accelerator)** · [hb3-accelerator.com](https://hb3-accelerator.com/)
 
-Building [Digital Legal Entity (DLE)](https://github.com/VC-HB3-Accelerator/DLE) — on-premise платформа для автоматизации бизнеса. В ядре две технологии: AI и EVM-контракты. Установка на серверах компании. Лёгкий переход от платных сервисов с устаревшими технологиями к новому ПО с передовыми технологиями.
+## Digital Legal Entity (DLE)
+
+[Digital Legal Entity (DLE)](https://github.com/VC-HB3-Accelerator/DLE) is an on-premise platform for business automation. Deployed on your company's servers — your data stays with you. Two technologies at the core of one product: **AI** and **EVM smart contracts**.
+
+Instead of a patchwork of paid subscriptions and legacy services — one modern stack for operations, customers, payments, and governance.
+
+**For clients**
+
+- up to **90%** lower operating costs
+- up to **90%** higher process efficiency
+- **full data control** (on-premise, aligned with local regulatory requirements)
+- **no dedicated IT department** — your staff run the system after short training
+
+**Model**
+
+- base core — **free**
+- support, industry template customization, and training — **fixed price for 5 years**
+- contract includes **70% refund** if we breach agreed terms
+- we onboard **1–2 companies per industry vertical** (delivery quality)
+
+**[Live demo: product walkthrough & use cases (30 min)](https://scheduler.zoom.us/vc-hb3-accelerator/30-mins-with-vc-hb3-accelerator)**
 
 ---
 
